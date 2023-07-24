@@ -28,7 +28,7 @@ text version as it uses no graphics; it needs none:
 <pre>
 From: Dr Samuel Ogboku. <yachay@yachay.pe>
 Reply-To: <drsamuelogboku55@gmail.com>
-Date: Fri, Jul 21, 2023 at 4:21 ¯AM
+Date: Fri, Jul 21, 2023 at 4:21 AM
 Subject: Re: Don't Ignore This Important Notification From Niger Delta Development Commission (NDDC).
 To: Clueless Phish
 
