@@ -16,7 +16,7 @@ email, send it my way and I will promise to fillet it properly.
 
 Today's phisher is trying hard to put together a reinterpretation of the
 classic "*I have free money for you but you need to provide me some info
-so I can steal your identity and/or bank account in the proccess*" which had 
+so I can steal your identity and/or bank account in the process*" which had 
 first gained notoriety in its *Nigerian Prince Scam* version.
 This kind of email has a time-tested format, which our aspiring phisher 
 decided to ignore thinking he could do better.
@@ -100,7 +100,7 @@ so don't complicate things, will you?
 
 Have you seen how long it is? For some reason they formatted it so, like some
 websites I will not mention, cannot adjust itself if you widen the browser window.
-Maybe they were trying to make a hommage to the longcat, but this would take
+Maybe they were trying to make a homage to the longcat, but this would take
 too much real state on the top of this blog entry.
 
 <img src="/images/2023/phish18.png" 

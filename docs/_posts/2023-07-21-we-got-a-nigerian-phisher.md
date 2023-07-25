@@ -8,20 +8,20 @@ tags:
 categories: 
   - blog
 ---
-I guess this is classic phish month, and today we sure have We have a real 
+I guess this is Classic Phish Month, and today we sure have We have a real 
 classic amongst us. I was going to talk about another, lesser phishing email,
 but when I found this morning a *Nigerian Prince*-class email waiting in my
-mailbox, I know I that was the one. 
+mailbox, I knew I that was the one. 
 
-Ok, this may not be royalty, and I did not 
+OK, this may not be royalty, and I did not 
 check if it really originates in Nigeria or just pretends to be. 
-But, let's keep my hopes up and say it hails us from the home of the
+Let's keep my hopes up and say it hails from the home of the
 419 Scam.
 Like in the last post, [last post]({% post_url 2023-07-07-phisher-goes-to-venmo  %}),
 this is a classic "*I have free money for you but you need to provide 
 me some info so I can steal your identity and/or bank account in the 
-proccess*" kind of email. 
-Different from the aspiring phisher from last post, this one noe only stuck
+process*" kind of email. 
+Different from the aspiring phisher from last post, this one not only stuck
 to the basics but also honored the phishing forefathers. I am just posting the 
 text version as it uses no graphics; it needs none:
 
@@ -124,17 +124,17 @@ this email delivers! I am sorry; I have no words. I am giggling here.
 
 - Contrary to lesser phishing emails, this one does not scream at you or
 pressure you too hard.
-There is no trerrible grammar here.
+There is no terrible grammar here.
 It massages you back by slowly working its con onto
 your skin as if it was scented oil. It appeals to your greed, but just with 
 the right pressure.
 
 - The `Subject:` line starts with `Re:` as this is an old trick to make the 
 lesser (i.e. most of them) spam filtering tools to think "oh, this is a reply
-to an anready running conversation; I better let it pass!" It still works.
+to an already running conversation; I better let it pass!" It still works.
 
-- The trademark of phishign emails, "*kindly*" is there. But this word is 
-only to identify the garde-variety phisher, not someone who crafts this work
+- The trademark of phishing emails, "*kindly*" is there. But this word is 
+only to identify the garden-variety phisher, not someone who crafts this work
 of beauty.
 
 So, savor this email. This is why I look down on so many phishing
