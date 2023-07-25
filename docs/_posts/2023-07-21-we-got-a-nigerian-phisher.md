@@ -8,10 +8,10 @@ tags:
 categories: 
   - blog
 ---
-I guess this is Classic Phish Month, and today we sure have We have a real 
+I guess this is Classic Phish Month, and today we sure have a real 
 classic amongst us. I was going to talk about another, lesser phishing email,
 but when I found this morning a *Nigerian Prince*-class email waiting in my
-mailbox, I knew I that was the one. 
+mailbox, I knew I that it was the one. 
 
 OK, this may not be royalty, and I did not 
 check if it really originates in Nigeria or just pretends to be. 
