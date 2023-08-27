@@ -23,7 +23,8 @@ To: Clueless Phish <cluelessphish@example.com>
 
 Attention:
 
-Some emails sent to your account cluelessphish@example.com are being bounced back due to sync errors.
+Some emails sent to your account cluelessphish@example.com are being 
+bounced back due to sync errors.
 
 Kindly follow the instructions below  to resolve this problem.
 INSTRUCTIONS [*link to phishing site goes here*]
@@ -31,16 +32,17 @@ INSTRUCTIONS [*link to phishing site goes here*]
 If you have already solved this problem, kindly ignore this message.
 example.com Online Team.
 
-This message was sent by the system for notification purposes only. Please do not reply.
+This message was sent by the system for notification purposes only. 
+Please do not reply.
 </pre>
 
 ## Identifying this as a phishing email in easy steps
 
 - Our old friend, *kindly* is back. Twice, as if that added more weight.
 - This phisher is pretending to be from the "*Online Team*" (whatever that
-means) of the company the intended target -- the mark, a.k.a.  
-*Clueless Phish* -- works
-at. To protect the innocent, the domain was renamed to `example.com`. 
+means) of the company the intended target -- the mark, 
+a.k.a.  *Clueless Phish* -- works at. 
+To protect the innocent, the domain was renamed to `example.com`. 
 Thing is that is done rather badly: unless we are reading this in Microsoft 
 Office, you can see the email address in the `From:` field has nothing to do 
 with the mark's.
