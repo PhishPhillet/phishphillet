@@ -13,12 +13,16 @@ classic amongst us. I was going to talk about another, lesser phishing email,
 but when I found this morning a *Nigerian Prince*-class email waiting in my
 mailbox, I knew I that it was the one. 
 
+<img src="/images/2023/NigerianPhisher.jpg" 
+class="align-center" alt="[A Picture of our Nigerian Phisher, caught
+Red Handed]">
+
 OK, this may not be royalty, and I did not 
 check if it really originates in Nigeria or just pretends to be. 
 Let's keep my hopes up and say it hails from the home of the
-419 Scam.
+[419 Scam](https://www.britannica.com/topic/Nigerian-scam).
 Like in the last post, [last post]({% post_url 2023-07-07-phisher-goes-to-venmo  %}),
-this is a classic "*I have free money for you but you need to provide 
+this is a classic *advance fee fraud*, or  "*I have free money for you but you need to provide 
 me some info so I can steal your identity and/or bank account in the 
 process*" kind of email. 
 Different from the aspiring phisher from last post, this one not only stuck
