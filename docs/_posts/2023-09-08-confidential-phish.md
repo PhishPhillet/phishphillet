@@ -12,7 +12,7 @@ While this is not *technically* a Nigerian Prince phishing email -- its
 claimed country of origin is two countries South of Nigeria -- like the
 [beautiful masterpiece](https://phishphillet.com/blog/2023/07/21/we-got-a-nigerian-phisher.html)
 we talked about in a previous post, it is one in spirit. 
-Check out the email, posted here in glorious ASCII, and see if you agree with
+Take a look at the email, posted here in glorious ASCII, and see if you agree with
 me.
 
 <pre>
@@ -23,15 +23,26 @@ Subject: Confidential
 
 Dear Sir/Madam,
 
-I am writing to you from Gabon, I am a personal cook to the Deposed President of Gabon who is under house arrest.
+I am writing to you from Gabon, I am a personal cook to the Deposed 
+President of Gabon who is under house arrest.
 
-I have a vital information I can release to you now , You will stand the position to claim the consignment that is in Turkey as the owner of the consignment, Is deposited as a Personal Valuable Item and bonded by the chief of staff to the president who is also under arrest, during the arrest he gave me the file to keep, from there I got this information and the receipt of the deposit.
+I have a vital information I can release to you now , You will stand 
+the position to claim the consignment that is in Turkey as the owner 
+of the consignment, Is deposited as a Personal Valuable Item and bonded 
+by the chief of staff to the president who is also under arrest, during 
+the arrest he gave me the file to keep, from there I got this information 
+and the receipt of the deposit.
 
-I have all the full details, the reference number, the security code numbers, if you mention this information you will reclaim the consignment. Confidentiality what is in the boxes (Two) is cash valued ($26m) each.
+I have all the full details, the reference number, the security code 
+numbers, if you mention this information you will reclaim the consignment. 
+Confidentiality what is in the boxes (Two) is cash valued ($26m) each.
 
 We are under house arrest now in Gabon in Central Africa.
 
-If you are interested contact me so I will give you the details of the Security Company so you can reach them with the information as the owner of the consignment, the security code number is the title proving you as the owner.
+If you are interested contact me so I will give you the details of the 
+Security Company so you can reach them with the information as the owner 
+of the consignment, the security code number is the title proving you as 
+the owner.
 
 When received I and you will invest it as partners in your company.
 
@@ -51,6 +62,9 @@ own charm:
 - The consignment of the consignment is a consignment?
 - This is not about royalty; it deals with a lesser president. But he was
 deposed and is in house arrest. Close enough, don't you think?
+- However, there was a real military coup in Gabon. On August 30, 
+President Ali Bongo Ondimba was removed from power. 
+Our phisher is aware of the news; props for that.
 - No *kindly* today. I feel sad.
 - This phisher is pretending to be just a lowly cook. Can't be that lowly
 because he is *personal cook* and is also supposed to be in the same house 
