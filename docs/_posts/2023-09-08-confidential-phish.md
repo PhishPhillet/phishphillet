@@ -60,7 +60,7 @@ email we looked at some weeks ago, but you must admit it has its
 own charm:
 
 - The consignment of the consignment is a consignment?
-- This is not about royalty; it deals with a lesser president. But he was
+- This is not about royalty; it deals with a lesser rank: president. But he was
 deposed and is in house arrest. Close enough, don't you think?
 - However, there was a real military coup in Gabon. On August 30, 
 President Ali Bongo Ondimba was removed from power. 
