@@ -56,7 +56,7 @@ https://correos1.biz/x1
 SMS-Aktivieerungslink oder kopieren Sie den Link und oe∂ffnen
 Sie ihn in Safari.)
 
-Einen sch√∂nen Tagwuenscht Ihnen das Team der Schweizerische Post.
+Einen schoe∂nen Tagwuenscht Ihnen das Team der Schweizerische Post.
 </pre>
 
 Here is a lously translated version:
