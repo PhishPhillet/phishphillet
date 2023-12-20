@@ -52,10 +52,11 @@ besaetingen Sie innerhalb von Studen Ihre Addresse in Link.
 
 https://correos1.biz/x1
 
+(Bitte antworket Sie mit "Y" beeden Sie dann SMS und oe�ffnen Sie den
+SMS-Aktivieerungslink oder kopieren Sie den Link und oe�ffnen
+Sie ihn in Safari.)
 
-(Bitte antworket Sie mit "Y" beeden Sie dann SMS und öffnen Sie den SMS-Aktivieerungslink oder kopieren Sie den Link und öffnen Sie ihn in Safari.)
-
-Einen schönen Tag wünscht Ihnen das Team der Schweizerische Post.
+Einen schönen Tagwuenscht Ihnen das Team der Schweizerische Post.
 </pre>
 
 Here is a lously translated version:
