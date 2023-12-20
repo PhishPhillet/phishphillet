@@ -58,7 +58,8 @@ to find what is going on. "*It must be a mistake*," you think. "*Someone
 with a similar name must be involved!*" How do you clear things out? 
 You call them! Oh, do you see the trap now?
 - The phone number. I actually looked it up and found it has been associated
-with other scams. If you do not know a number, always, *always*, **always** 
+with other scams. If you do not recognize a phone number, always, *always*, 
+**always** 
 check it up before calling it back. But, make sure not to use a reverse number
 lookup service/site which wants you to register with them or otherwise provide 
 money or info to work.
