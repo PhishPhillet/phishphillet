@@ -47,7 +47,7 @@ vtweour506748@icloud.com
 Heute, 10:58
 
 Schweizerische Post: Ihr Paket is im Lager angekommen, wurde jedoch aufgrung
-unklarer Addressinformationen zurue¼ckgehalten und ist nichtzusterllbar.
+unklarer Addressinformationen zurueckgehalten und ist nichtzusterllbar.
 Bitte
 besaetingen Sie innerhalb von Studen Ihre Addresse in Link.
 
