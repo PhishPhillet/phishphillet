@@ -45,7 +45,7 @@ with them so they can collect your personal information and con you to
 download some malware while they have you hooked on the phone.
 If that is not phishing, I do not know what is.
 
-## Identifying this as a phishing in easy steps
+## Identifying this as phishing in easy steps
 
 - Scare tactics: "*I am with the government! You better do as told or else!*" 
 In this case the robocall voice (chatGPT; is that you?) claims to be from the

@@ -64,16 +64,19 @@ Tagwuenscht Ihnen das Team der Schweizerische Post.
 Here is a lousy translated version:
 <pre>Today, 10:58
 
-Swiss Post: Your package arrived at the warehouse, but was held back due to unclear address information and cannot be delivered. Please enter your address in the link within hours.
+Swiss Post: Your package arrived at the warehouse, but was held back due 
+to unclear address information and cannot be delivered. Please enter your 
+address in the link within hours.
 
 https://correos1.biz/x1
 
-(Please answer with "Y" then exit SMS and open the SMS activation link or copy the link and open it in Safari.)
+(Please answer with "Y" then exit SMS and open the SMS activation link or 
+copy the link and open it in Safari.)
 
 The Swiss Post team wishes you a nice day.</pre>
 
 
-## Identifying this as a phishing in easy steps
+## Identifying this as a phishing email in easy steps
 
 The phiser had a great idea to use messaging to send the attack, but his 
 implementation had a lot to be desired.

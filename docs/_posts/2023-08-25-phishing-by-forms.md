@@ -46,7 +46,7 @@ Google Forms: Create and analyze surveys.
 
 </pre>
 
-## Identifying this as a phishing email in easy steps
+## Identifying this as a phishing email
 
 The basic test always start with "stop and think." If you spend more than
 10s looking at this email, you may still be curious but your finger will no
