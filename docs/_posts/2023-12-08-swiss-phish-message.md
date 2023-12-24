@@ -61,7 +61,7 @@ Einen schoenen
 Tagwuenscht Ihnen das Team der Schweizerische Post.
 </pre>
 
-Here is a lousy translated version:
+Here is a (lousy) translation to English:
 <pre>Today, 10:58
 
 Swiss Post: Your package arrived at the warehouse, but was held back due 
