@@ -5,6 +5,7 @@ author: mainphish
 tags:
   - content
   - phish
+  - mail-merge
 categories: 
   - blog
 ---
@@ -32,7 +33,15 @@ Subject: Bank of Canada sues Tucker Carlson for what he said on live TV
 To: Clueless Phish <cluelessphish@example.com>
 
 
-Tucker talked about an incredible development that has the potential to astonish everyone. And everyone was already very interested as soon as he began to explain the essence; a call came to the studio from a major bank in Spain instructing to immediately halt the interview! What did Tucker Carlson say that so outraged the government and banks that they now threaten him with legal action? In this article, we have gathered all the most important information for you, as the interview is no longer available, and there are no guarantees that this article will remain accessible for long.
+Tucker talked about an incredible development that has the potential 
+to astonish everyone. And everyone was already very interested as soon as 
+he began to explain the essence; a call came to the studio from a major 
+bank in Spain instructing to immediately halt the interview! What did 
+Tucker Carlson say that so outraged the government and banks that they 
+now threaten him with legal action? In this article, we have gathered all 
+the most important information for you, as the interview is no longer 
+available, and there are no guarantees that this article will remain 
+accessible for long.
 
 [Find out more]
 </pre>
