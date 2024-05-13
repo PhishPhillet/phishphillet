@@ -17,7 +17,7 @@ marketing firms.
 Here is the list at the time this post was written:
 
 <img src="/images/2024/phish22a.png" 
-class="align-center" alt="[sList of pPhishing message claiming to have news i
+class="align-center" alt="[List of phishing emails claiming to have news
 about  the Bank of Canada suing someone]">
 
 Note the Subjects of these emails all follow the pattern
@@ -39,9 +39,9 @@ Tucker talked about an incredible development that has the potential to astonish
 
 And its quasi-HTML (more on that later) version.
 
-<img src="/images/2024/phish22a.png" 
-class="align-center" alt="[sList of pPhishing message claiming to have news i
-about  the Bank of Canada suing someone]">
+<img src="/images/2024/phish22b.png" 
+class="align-center" alt="[the same clickbait email as above but seen in a not
+very html-friendly email client]">
 
 ## Identifying this phishing email
 - I have heard of *Tucker Carlson*. I do not remember (and no, I am not going
