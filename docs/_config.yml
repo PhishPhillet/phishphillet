@@ -27,7 +27,7 @@ url: "https://phishphillet.com/" # the base hostname & protocol for your site, e
 # twitter_username: jekyllrb
 # github_username:  jekyll
 logo: /images/PhishColour_300.png
-copyright: "&copy; 2023 [Privacy Test Driver LLC](https://privacytestdriver.com). Powered by [Jekyll](https://jekyllrb.com/) & [So Simple](https://github.com/mmistakes/so-simple-theme)."
+copyright: "&copy; 2023, 2024 [Privacy Test Driver LLC](https://privacytestdriver.com). Powered by [Jekyll](https://jekyllrb.com/) & [So Simple](https://github.com/mmistakes/so-simple-theme)."
 read_time: true
 words_per_minute: 200
 
@@ -56,7 +56,12 @@ defaults:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
+
+feed:
+  posts_limit: 10
+  categories:
+    - blog
+
 exclude:
   - "*.bak"
 #   - .sass-cache/
