@@ -50,13 +50,19 @@ We're letting you know that you have a new message in your Online Banking mailbo
 
 Please [**Login Here to view the Message Center**] and read your message.
 
-We encourage you to read the entire message, because it contains specific information about your account.
+We encourage you to read the entire message, because it contains specific 
+information about your account.
 
-If you haven't done so already, you can go paperless now. It's a safe and secure way to help stay organized. 
+If you haven't done so already, you can go paperless now. It's a safe and 
+secure way to help stay organized. 
 
-We're here to help. If you have questions, contact us online or call the number on the back of your credit or debit card.
+We're here to help. If you have questions, contact us online or call the 
+number on the back of your credit or debit card.
 
-We'll never ask for your personal information such as SSN or ATM PIN. If you get an email that looks suspicious or you are not the intended recipient of this email, don't click on any links. Instead, forward to abuse@bankofamerica.com then delete it.
+We'll never ask for your personal information such as SSN or ATM PIN. If you 
+get an email that looks suspicious or you are not the intended recipient of 
+this email, don't click on any links. Instead, forward to 
+abuse@bankofamerica.com then delete it.
 
 Please don't reply to this automatically generated service email.
 
