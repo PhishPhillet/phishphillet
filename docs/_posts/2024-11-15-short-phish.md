@@ -72,6 +72,7 @@ Bank of America, N.A. Member FDIC
 © 2024 Bank of America Corporation
 </pre>
 
+
 ## But, this looks like a typical example of the classic phish with a link
 
 Right you are, and we can see other telltale signs of a phish at large:
@@ -82,13 +83,15 @@ Right you are, and we can see other telltale signs of a phish at large:
 "*You Have A New Message*", but banks and credit card companies are notorious
 for having suspicious Subjects. While they claim that is done to "make it 
 harder for malicious attackers to immitate them," the reality is as if they 
-are trying to copy thge phishers. While I appreciate them having something to
+are trying to copy the phishers. While I appreciate them having something to
 strive for, that is not what they should be aiming for.
 - Same goes for the return email address. I am sorry but it sure looks 
 suspicious: why would *Bank of America* not use `bankofamerica.com` for its
 return address? I would love to say "Aha! That is another dead giveaway!"
-but I could name 3 other banks who have cutesy addresses for who knowa why.
-Still, it is suspicious in my book, so I would not click on the link.
+but I could name 3 other banks who love cutesy addresses like
+"`mysecureprotection.com`" because their marketing people said resonates 
+with their customers.
+Whatever, it is suspicious in my book, so I would not click on the link.
 
 But this phish has a twist. Behind the 
 "[**Login Here to view the Message Center**]" is a short link. Specifically, 
