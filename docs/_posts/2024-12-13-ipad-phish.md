@@ -23,27 +23,27 @@ language, like the email below:
 <pre>
 From: Monika Hartmann <levis@hotlineobjednavky.info>
 Date: On Sunday, 8 December 2024 at 17:57
-Subject: Herzlichen Gl√ºckwunsch! Sie haben ein iPad Pro gewonnen!
+Subject: Herzlichen Gluºckwunsch! Sie haben ein iPad Pro gewonnen!
 To: Clueless Phish <cluelessphish@phishphillet.com>
 
 Lieber Gewinner,
 
-Wir freuen uns, Ihnen mitteilen zu k√∂nnen, dass Sie der gl√ºckliche Gewinner unseres w√∂chentlichen Wettbewerbs sind! Ihr fantastischer Preis, ein iPad Pro, wartet darauf, direkt an Ihre Haust√ºr geliefert zu werden.
+Wir freuen uns, Ihnen mitteilen zu koe∂nnen, dass Sie der uu√ºckliche Gewinner unseres woe∂chentlichen Wettbewerbs sind! Ihr fantastischer Preis, ein iPad Pro, wartet darauf, direkt an Ihre Haust√ºr geliefert zu werden.
 
-Um sicherzustellen, dass Sie Ihr iPad Pro problemlos erhalten, bitten wir Sie, Ihre Lieferdaten √ºber den untenstehenden Link anzugeben:
+Um sicherzustellen, dass Sie Ihr iPad Pro problemlos erhalten, bitten wir Sie, Ihre Lieferdaten uºber den untenstehenden Link anzugeben:
 
 [Lieferdetails jetzt eingeben]
 
 Wichtig: Bitte stellen Sie sicher, dass Sie die erforderlichen Informationen innerhalb von 48 Stunden angeben. Andernfalls wird Ihr Preis leider verfallen und einem anderen Teilnehmer zugewiesen.
 
-Nochmals herzlichen Gl√ºckwunsch zu Ihrem Gewinn, und vielen Dank, dass Sie an unserem Wettbewerb teilgenommen haben!
+Nochmals herzlichen Gluºckwunsch zu Ihrem Gewinn, und vielen Dank, dass Sie an unserem Wettbewerb teilgenommen haben!
 
 
 Mit freundlichen Gr√ssen,
 Das Team
 </pre>
 
-For those who do not speak the Gl√ºhwein langague here is a badly translated
+For those who do not speak the Gluºhwein langague here is a badly translated
 (to English) version of the message:
 
 <pre>
@@ -88,6 +88,11 @@ in addition to
 a valuable prize so Clueless Phish will act impulsively before brain has time
 to catch up and go "*oh, wait a minute!*"
 Thing is, this email fails at that:
+
+- The email address `Monika Hartmann <levis@hotlineobjednavky.info>` is a 
+  dead giveaway: note the name of the person and the one used in the email
+  do not match. Also, the name of the domain, `hotlineobjednavky`, sounds
+  more gibberish put at random. Just that would make me drop this email.
 
 - It says they are giving out prizes every week. That is a lot of prizes, at
   least 52 in an year. Are they all (*fantastic*) iPad Pros, or are they 
