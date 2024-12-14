@@ -28,7 +28,7 @@ To: Clueless Phish <cluelessphish@phishphillet.com>
 
 Lieber Gewinner,
 
-Wir freuen uns, Ihnen mitteilen zu koe∂nnen, dass Sie der uu√ºckliche Gewinner unseres woe∂chentlichen Wettbewerbs sind! Ihr fantastischer Preis, ein iPad Pro, wartet darauf, direkt an Ihre Haust√ºr geliefert zu werden.
+Wir freuen uns, Ihnen mitteilen zu konnen, dass Sie der gluckliche Gewinner unseres wochentlichen Wettbewerbs sind! Ihr fantastischer Preis, ein iPad Pro, wartet darauf, direkt an Ihre Haust√ºr geliefert zu werden.
 
 Um sicherzustellen, dass Sie Ihr iPad Pro problemlos erhalten, bitten wir Sie, Ihre Lieferdaten uºber den untenstehenden Link anzugeben:
 
@@ -39,7 +39,7 @@ Wichtig: Bitte stellen Sie sicher, dass Sie die erforderlichen Informationen inn
 Nochmals herzlichen Gluºckwunsch zu Ihrem Gewinn, und vielen Dank, dass Sie an unserem Wettbewerb teilgenommen haben!
 
 
-Mit freundlichen Gr√ssen,
+Mit freundlichen Grussen,
 Das Team
 </pre>
 
