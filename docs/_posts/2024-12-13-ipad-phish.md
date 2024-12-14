@@ -23,27 +23,27 @@ language, like the email below:
 <pre>
 From: Monika Hartmann <levis@hotlineobjednavky.info>
 Date: On Sunday, 8 December 2024 at 17:57
-Subject: Herzlichen Gluºckwunsch! Sie haben ein iPad Pro gewonnen!
+Subject: Herzlichen Gluckwunsch! Sie haben ein iPad Pro gewonnen!
 To: Clueless Phish <cluelessphish@phishphillet.com>
 
 Lieber Gewinner,
 
-Wir freuen uns, Ihnen mitteilen zu konnen, dass Sie der gluckliche Gewinner unseres wochentlichen Wettbewerbs sind! Ihr fantastischer Preis, ein iPad Pro, wartet darauf, direkt an Ihre Haust√ºr geliefert zu werden.
+Wir freuen uns, Ihnen mitteilen zu konnen, dass Sie der gluckliche Gewinner unseres wochentlichen Wettbewerbs sind! Ihr fantastischer Preis, ein iPad Pro, wartet darauf, direkt an Ihre Haustur geliefert zu werden.
 
-Um sicherzustellen, dass Sie Ihr iPad Pro problemlos erhalten, bitten wir Sie, Ihre Lieferdaten uºber den untenstehenden Link anzugeben:
+Um sicherzustellen, dass Sie Ihr iPad Pro problemlos erhalten, bitten wir Sie, Ihre Lieferdaten uber den untenstehenden Link anzugeben:
 
 [Lieferdetails jetzt eingeben]
 
 Wichtig: Bitte stellen Sie sicher, dass Sie die erforderlichen Informationen innerhalb von 48 Stunden angeben. Andernfalls wird Ihr Preis leider verfallen und einem anderen Teilnehmer zugewiesen.
 
-Nochmals herzlichen Gluºckwunsch zu Ihrem Gewinn, und vielen Dank, dass Sie an unserem Wettbewerb teilgenommen haben!
+Nochmals herzlichen Gluckwunsch zu Ihrem Gewinn, und vielen Dank, dass Sie an unserem Wettbewerb teilgenommen haben!
 
 
 Mit freundlichen Grussen,
 Das Team
 </pre>
 
-For those who do not speak the Gluºhwein langague here is a badly translated
+For those who do not speak the Gluhwein langague here is a badly translated
 (to English) version of the message:
 
 <pre>
