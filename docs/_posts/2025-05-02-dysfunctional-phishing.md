@@ -10,6 +10,9 @@ tags:
   - claim
   - secure
   - insurance
+  - meme
+  - badphish
+  - funphish
 categories: 
   - blog
 ---
@@ -89,7 +92,7 @@ with cutting-n-pasting? Was he trying to merge two phishing emails thinking
 if a potential victim ignores the first part of the email, said victim would
 fall for the second part? Was it done as a bet?
 
-- Last but definitvely not least, the other think, `Secure Messaging Portal`, 
+- Last but definitvely not least, the other link, `Secure Messaging Portal`, 
 goes to an url in `mimecast.com`. No, I will not post it here just in case
 Mimecast never bothers to disable it.
 Howerver, if that was also set up by the phisher, that would tell a lot about 

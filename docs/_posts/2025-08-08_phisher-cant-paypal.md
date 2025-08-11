@@ -5,11 +5,11 @@ author: mainphish
 tags:
   - content
   - phish
-  - era
-  - eft
-  - claim
-  - secure
-  - insurance
+  - lazyphish
+  - badphish
+  - paypal
+  - email
+  - gmail
 categories: 
   - blog
 ---

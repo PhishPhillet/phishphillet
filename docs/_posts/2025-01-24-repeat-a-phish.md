@@ -97,7 +97,7 @@ Also, while the email address changed, and it is talking about ChatGPT instead o
 Microsoft Copilot, the email itself does look similar to the previous one,
 doesn't it? 
 
-## Ok smart guy, two does not a pattern make
+## Ok smart guy, two do not a pattern make
 
 Right you are! How about another one? I promised while I removed the links,
  I kept the format of the
