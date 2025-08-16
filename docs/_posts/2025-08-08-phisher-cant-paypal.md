@@ -93,7 +93,8 @@ old TV ad said, get some help!
 <img src="/images/2025/stop-it-help.jpg"
 class="align-center" alt="[Man in suit ssaying stop it, get some help]">
 
-As I admitted, I have no baking skills, but I feel while my attempts at making 
+As I admitted earlier in this post, 
+I have no baking skills, but I feel while my attempts at making 
 brownies set a really low bar. Ok, not as low as the extremely
 [laze phisher]({% post_url 2023-11-17-humanitarian-phish %}) we talked about
 a while ago, but pretty bad regardless. I was wrong.
