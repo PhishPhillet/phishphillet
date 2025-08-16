@@ -20,8 +20,8 @@ can't write a beliveable PayPal phishing email. Guess which group our
 phisher belongs to?  Exactly. 
 
 We have seen some bad phishing emails before. Some of which are bad enough
-they are interesting or entertaining. This is none of that. Without further
-ado, let's look into it:
+they are interesting or entertaining. Today's example is none of that. 
+Without further ado, let's jump right into it:
 
 <pre style="white-space: pre-wrap; font-family: monospace;">
 From: avenbuankate242@gmail.com
@@ -72,6 +72,12 @@ not be bothered to hide it, say writing it as
 address screaming "look at me! I am suspicious and have nothing to do with
 the company I am impersonating!" Is that too much to ask?
 
+- How many invoice numbers do you need to mention in the `Subject:`? Do you
+think that by coming up with more people will take it more seriously? Or do
+you are trying different invoice number formats in hope one looks like what
+the potential clueless phish has seen before, and as a result looks more
+legit?
+
 - This email is plain text. While I like plaintext emails from the security
 standpoint, *this is a phishing email!* It is supposed to be insecure. I do 
 not mean insecure enough to trigger a phishing/spam filter, but it could use
@@ -96,7 +102,7 @@ class="align-center" alt="[Man in suit ssaying stop it, get some help]">
 As I admitted earlier in this post, 
 I have no baking skills, but I feel while my attempts at making 
 brownies set a really low bar. Ok, not as low as the extremely
-[laze phisher]({% post_url 2023-11-17-humanitarian-phish %}) we talked about
+[lazy phisher]({% post_url 2023-11-17-humanitarian-phish %}) we talked about
 a while ago, but pretty bad regardless. I was wrong.
 This phisher looked at my accomplishment, said
 "hold my beer!", and showed a new low bar could indeed be reached, that the 
