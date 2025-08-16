@@ -65,17 +65,20 @@ Yes, he used gmail since, just like with Microsoft's outlook, creating an email
 is easy peasy. Could he make it sound paypal-ish? Oh no, that would be too 
 much to ask! Instead we have `avenbuankate242@gmail.com` which is, well, 
 come on!
+
 - Phisher was not satisfied with having a non-believeable email: he could 
 not be bothered to hide it, say writing it as 
 `PayPal Support <avenbuankate242@gmail.com>`. So, now we have this email
 address screaming "look at me! I am suspicious and have nothing to do with
 the company I am impersonating!" Is that too much to ask?
+
 - This email is plain text. While I like plaintext emails from the security
 standpoint, *this is a phishing email!* It is supposed to be insecure. I do 
 not mean insecure enough to trigger a phishing/spam filter, but it could use
 a bit more vibrance! A typical paypal email is html-based, with its evil
 tracking pixels and other privacy stealing features. Also, it has the paypal
 logo on it. Can't you copy the logo and attach it inline? Or get the look believeable? What is wrong with you?
+
 - Talking about the look, the flow of the email, as in of which words are being
 used and how they are laid in the email are better described as the result of 
 someone trying to put together a paypal phishing email during lunch based on 
@@ -85,12 +88,14 @@ the Pontiac Aztek. Hint: there are programs out there who will take care of
 your phishing emails from creating something, ahem, *believeable* to tracking
 the response and getting the malicious links or payload just right. There
 is no shame if you cannot write a phishing email on your own, but like the
-old TV ad, get some help!
+old TV ad said, get some help!
 
 <img src="/images/2025/stop-it-help.jpg"
 class="align-center" alt="[Man in suit ssaying stop it, get some help]">
 
-As I admitted, I have no baking skills, but I feel while my attempts at making brownies set a really low bar, this phisher is at a different, lower level. 
+As I admitted, I have no baking skills, but I feel while my attempts at making 
+brownies set a really low bar, this phisher looked at my accomplishment, said
+"hold my beer!", and achieved a new lower level. 
 Did he get there by accident, concidence, just lack of skills, or did he woke 
 up in the morning and decided to a really disappointing phishing email?
 You decide.
