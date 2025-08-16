@@ -94,10 +94,16 @@ old TV ad said, get some help!
 class="align-center" alt="[Man in suit ssaying stop it, get some help]">
 
 As I admitted, I have no baking skills, but I feel while my attempts at making 
-brownies set a really low bar, this phisher looked at my accomplishment, said
-"hold my beer!", and achieved a new lower level. 
+brownies set a really low bar. Ok, not as low as the extremely
+[laze phisher]({% post_url 2023-11-17-humanitarian-phish %}) we talked about
+a while ago, but pretty bad regardless. I was wrong.
+This phisher looked at my accomplishment, said
+"hold my beer!", and showed a new low bar could indeed be reached, that the 
+race to the bottom is far from over.
+
 Did he get there by accident, concidence, just lack of skills, or did he woke 
 up in the morning and decided to a really disappointing phishing email?
+
 You decide.
 
 ## That is rash! Are there any redeeming features?
@@ -106,4 +112,4 @@ You decide.
 "do not reply to this email." Most such real emails like to have a
 `noreply@domain.com` kinda of email address, implying if you reply to it,
 it will be ignored. So that specific bit of the phishing email is
-appropriate.
+appropriate. But, I had to squint really hard to find it!
