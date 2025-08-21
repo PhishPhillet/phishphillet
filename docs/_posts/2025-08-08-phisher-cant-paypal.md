@@ -14,8 +14,9 @@ categories:
   - blog
 ---
 
-Some people can't dance. Others can't bake a brownie to save their lives; I
-fit in that group. And then there are those who 
+Some people can't dance. Others can't bake, from pasta to a brownie, to 
+save their lives. I
+fit neatly in that second group. And then there are those who 
 can't write a beliveable PayPal phishing email. Guess which group our 
 phisher belongs to?  Exactly. 
 
@@ -105,7 +106,7 @@ brownies set a really low bar. Ok, not as low as the extremely
 [lazy phisher]({% post_url 2023-11-17-humanitarian-phish %}) we talked about
 a while ago, but pretty bad regardless. I was wrong.
 This phisher looked at my accomplishment, said
-"hold my beer!", and showed a new low bar could indeed be reached, that the 
+"hold my beer!", and showed a new low bar could indeed be set, that the 
 race to the bottom is far from over.
 
 Did he get there by accident, concidence, just lack of skills, or did he woke 
