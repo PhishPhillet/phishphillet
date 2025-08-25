@@ -49,14 +49,14 @@ Saludos cordiales,
 Equipo de Zabbix
 </pre>
 
-So the gist of it is that it claimed my registration for the Zabbix Forum 
+So the gist of said email is that my registration for the Zabbix Forum 
 Mexico 2025 was successful. Now,
 [Zabbix](https://www.zabbix.com/) is a well known -- even I have used it -- 
 network monitoring system. 
 
 ## Why it is well done ##
 
-- Given the line of business I am into
+- Given my line of business 
 (cybersecurity and data privacy), it makes sense that I may go to that
 event. So, sending an email saying I had registered for it indicates
 they did some research.
@@ -81,6 +81,9 @@ to me instead of something someone else sent to me). It restores my faith
 in the phishing community.
 
 ## If it was so good, why didn't you click on it? ##
+
+- First of all, the `Hola`. Isn't that a bit too chummy? Why not start with
+`Congratulations in Spanish!` or something like it?
 
 - I knew I did not sign up for any Zabbix conference this year, be it in Mexico
 or the Moon.
