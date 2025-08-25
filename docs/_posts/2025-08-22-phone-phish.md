@@ -20,12 +20,12 @@ Now, it is in Spanish, but who cares? We've had them in
 before, and I need to put up the ones people sent me that were in French and
 Russian. But, I am getting ahead of myself: let's admire today's phishing email
 (apologies for removing the accents but I have not figured out yet how to
-preserve them):
+preserve them without getting utf8 error messages):
 
 <pre style="white-space: pre-wrap; font-family: monospace;">
 From: Zabbix Latam <marketing.latam@zabbix.com>
 Reply-To: marketing.latam@zabbix.com
-Date: Thu, Aug 21, 2025 at 3:27 ¯PM
+Date: Thu, Aug 21, 2025 at 3:27 PM
 Subject: Zabbix Forum Mexico 2025 - Participacion confirmada
 To: Clueless Phish <cluelessphish@phishphillet.com>
 
