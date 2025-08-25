@@ -116,7 +116,8 @@ You decide.
 
 ## That is rash! Are there any redeeming features?
 
-- Well, if I had to say something nice, the best I can do is the statement
+- Well, if I had to say something nice, the best I can do is to praise 
+the statement
 "do not reply to this email." Most such real emails like to have a
 `noreply@domain.com` kinda of email address, implying if you reply to it,
 it will be ignored. So that specific bit of the phishing email is
