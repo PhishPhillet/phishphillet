@@ -27,7 +27,7 @@ url: "https://phishphillet.com/" # the base hostname & protocol for your site, e
 # twitter_username: jekyllrb
 # github_username:  jekyll
 logo: /images/PhishColour_300.png
-copyright: "&copy; 2023-2025 [Privacy Test Driver LLC](https://privacytestdriver.com). Powered by [Jekyll](https://jekyllrb.com/) & [So Simple](https://github.com/mmistakes/so-simple-theme)."
+copyright: "&copy; 2022-2025 [Privacy Test Driver LLC](https://privacytestdriver.com). Powered by [Jekyll](https://jekyllrb.com/) & [So Simple](https://github.com/mmistakes/so-simple-theme)."
 read_time: true
 words_per_minute: 200
 

@@ -12,7 +12,9 @@ categories:
   - blog
 ---
 
-Today's phishing email is a variation of the classic Nigerian Prince scam. 
+Today's phishing email is a variation of the classic Nigerian Prince scam,
+which we have been luck enough to had 
+[a really good example](https://phishphillet.com/blog/2023/07/21/we-got-a-nigerian-phisher.html) here before. 
 The basic hook is greed. The Nigerian Prince (phisher) asks you (phish) 
 to help him
 move massive amounts of money by depositing them into your account and you
