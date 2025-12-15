@@ -49,8 +49,16 @@ easy, reliable work! For more details. message us on What'sApp:
   Yes, most bootcamps are scams; the ones offering 
   "*garanteed job placement*" doubly so.
 
-- No proper job description.
+- No proper job description. What do you want people you want to hire to do?
+  We just had a [phishing email similar to this](https://phishphillet.com/blog/2025/11/28/represent-a-phish.html)
+  that took the time to put the job title. Is this too much to ask?
 
-- The fact I have seen about 12 of these posts, who only change the fake phone
-  number, username, and profile picture.
+- The fact I have seen about 12 of these posts. They all have the exact same
+  wording, changing only the fake phone number, username, and profile picture.
+  If I had only seen one such post, I would have let it pass. But when you
+  see the same post on 3 groups within 15 minutes of each other, you do
+  start wondering. And then the same post is, well, posted again in the same
+  groups but with the changes I mentioned ("*Hey! I am a completely different
+  post. The author's name and picture looks completely different!*"), I stop
+  wondering.
 
