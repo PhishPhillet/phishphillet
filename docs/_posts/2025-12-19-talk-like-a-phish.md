@@ -36,7 +36,7 @@ following email:
 have other email accounts; my work email is not through gmail for many reasons
 I would rather not talk about here or I would be writing until next week.
 
-<img src="/images/2025/stop-it-help.png"
+<img src="/images/2025/email_20251213.png"
 class="align-center" alt="[Screen capture of the suspicious email whose text version is shown below]">
 
 <pre style="white-space: pre-wrap; font-family: monospace;">

@@ -13,7 +13,7 @@ categories:
 ---
 
 Today's phishing email is a variation of the classic Nigerian Prince scam. 
-The basic hook is greedr. The Nigerian Prince (phisher) asks you (phish) 
+The basic hook is greed. The Nigerian Prince (phisher) asks you (phish) 
 to help him
 move massive amounts of money by depositing them into your account and you
 then send him his share (which is the only real money: yours) *before*
