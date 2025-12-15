@@ -13,7 +13,7 @@ categories:
 I belong to a few meetup groups. For the last two months I have seen
 an interesting phishing message being posted as a new post/discussion to
 a few meetup groups.
-The phishing type is to offer, as they state, an *easy reliable work*, which
+This type is to offer, as they state, an *easy reliable work*, which
 translates to providing personal information (so the phisher can get loans and
 credit cards on the phish's name) or installing some malicious software 
 disguised as the app required to perform work duties.
