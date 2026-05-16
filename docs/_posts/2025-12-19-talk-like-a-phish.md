@@ -32,7 +32,8 @@ A week after case was created, I got an email with instructions to file
 a claim for the value of the package + shipping. And then I received the
 following email:
 
-**Note:** yes, I do have a gmail account which I use to receive such messagesr. I also
+**Note:** yes, I do have a gmail account which I use to receive such messages. 
+I also
 have other email accounts; my work email is not through gmail for many reasons
 I would rather not talk about here or I would be writing until next week.
 
