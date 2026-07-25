@@ -20,9 +20,11 @@ many of the largest data breaches started with a phishing email.
 
 # What is a phish?
 
-Phish is the target, or victim, of a phishing campaign. 
-It is the mermaid guy logo of this website.
-It may be *you*!
+- Phish is the target, or victim, of a phishing campaign. 
+
+- It is the "mermaid guy" logo of this website.
+
+- It may be *you*!
 
 # Don't be a phish!
 
@@ -55,6 +57,45 @@ Send us your
 <b><a href="mailto:{{ site.email | encode_email }}" title="Feed the Phish">Phishing Email</a> </b>
 so we can phillet it for you!
 
+# Why should I care if I am phished (the reason behind this site)
+
+I could post the usual statistics -- how many companies are victims and
+yearly costs -- but I will not. I know people who were affected by 
+phishing emails.
+
+- Small organization I know got a call from someone claiming to be one
+of their employees. Whoever was the phisher here took the time to identify
+a real employee who was out of state at the time and then called the 
+organization's HR officer. The fake employee -- the phisher -- asked to
+change the bank used for her salary payments direct deposit. She managed to 
+provide 
+enough info to convince hr officer, including the right direct deposit form 
+of new bank. The only reason this did not succeed was the bank this 
+organization uses contact them saying this was suspicious.
+
+- Someone I know fell for the phishing attack that claims to be a company
+hiring him. Said company send a check to buy "equipment to setup the
+work-from-home environment" including laptop ($$$$) from a company they 
+selected. And they said he
+could keep the rest of the money to help with other setup tasks. 
+That was a lie: what he paid for the "order" was the money they fleeced from
+him. His bank told him that was a scam, the check they gave him bounced.
+And now he owed thousands of dollars to the bank, who gave him a week to 
+come up with the money or they would close his account. 
+
+If you want to know about our company, you can click somewhere in this site
+to find out. But, for now forget about that. This is about doing what we can
+to cut down on predators who have the tools and (sometimes) the knowledge 
+to scam people and their loved ones. We could peddle some "AI-based 
+phishing detection app" but chose to stick to our belief that helping the
+person understand the process and detect the trap is more effective.
+Yes, we believe in the people, you, me, and even that guy browsing late at
+night in his underwear. 
+
+So, thank you for finding this site. We hope we in turn helped you avoid
+the bait.
+
+# Notes
 ## Exciting Note
 We will remove your identifying information before posting it, 
 stating it was contributed by a "viewer like you (thank you!)."
