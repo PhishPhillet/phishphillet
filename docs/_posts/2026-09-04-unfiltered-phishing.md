@@ -12,9 +12,6 @@ categories:
   - blog
 ---
 
-<img src="/images/2026/EZ_Button-sm.png"
-class="align-center" alt="Picture (I took and badly cropped the background out) of an EZ/Easy Button">
-
 Catching a phishing email is not a "*press the Ez-Button*" solution, even if you
 press the "*AI Button*" no matter what vendors offer you. It is done better 
 in layers:
@@ -40,6 +37,9 @@ in layers:
 These layers are placed in an increasing order of effort.
 We hope that more of the phishing emails were caught by the (automated) steps 
 so we only have to spend our (human) mind looking at a small set that felt 
+
+<img src="/images/2026/EZ_Button-sm.png"
+class="align-center" alt="Picture (I took and badly cropped the background out) of an EZ/Easy Button">
 through.
 
 In this case, we should expect our hope to expertly crushed.
