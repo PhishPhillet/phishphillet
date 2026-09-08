@@ -37,10 +37,10 @@ in layers:
 These layers are placed in an increasing order of effort.
 We hope that more of the phishing emails were caught by the (automated) steps 
 so we only have to spend our (human) mind looking at a small set that felt 
+through.
 
 <img src="/images/2026/EZ_Button-sm.png"
 class="align-center" alt="Picture (I took and badly cropped the background out) of an EZ/Easy Button">
-through.
 
 In this case, we should expect our hope to expertly crushed.
 
